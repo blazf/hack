@@ -1,0 +1,202 @@
+[
+  {
+    "id": "INV-001",
+    "item_id": "ITEM-001",
+    "warehouse_id": "WH-01",
+    "quantity_on_hand": 25,
+    "quantity_allocated": 10,
+    "lot_number": "LOT-2026-001"
+  },
+  {
+    "id": "INV-002",
+    "item_id": "ITEM-002",
+    "warehouse_id": "WH-01",
+    "quantity_on_hand": 18,
+    "quantity_allocated": 5,
+    "lot_number": "LOT-2026-002"
+  },
+  {
+    "id": "INV-003",
+    "item_id": "ITEM-003",
+    "warehouse_id": "WH-01",
+    "quantity_on_hand": 12,
+    "quantity_allocated": 0,
+    "lot_number": "LOT-2026-003"
+  },
+  {
+    "id": "INV-004",
+    "item_id": "ITEM-004",
+    "warehouse_id": "WH-01",
+    "quantity_on_hand": 20,
+    "quantity_allocated": 8,
+    "lot_number": "LOT-2026-004"
+  },
+  {
+    "id": "INV-005",
+    "item_id": "ITEM-005",
+    "warehouse_id": "WH-01",
+    "quantity_on_hand": 30,
+    "quantity_allocated": 15,
+    "lot_number": "LOT-2026-005"
+  },
+  {
+    "id": "INV-006",
+    "item_id": "ITEM-010",
+    "warehouse_id": "WH-01",
+    "quantity_on_hand": 45,
+    "quantity_allocated": 20,
+    "lot_number": "LOT-2026-010"
+  },
+  {
+    "id": "INV-007",
+    "item_id": "ITEM-011",
+    "warehouse_id": "WH-01",
+    "quantity_on_hand": 60,
+    "quantity_allocated": 15,
+    "lot_number": "LOT-2026-011"
+  },
+  {
+    "id": "INV-008",
+    "item_id": "ITEM-012",
+    "warehouse_id": "WH-01",
+    "quantity_on_hand": 35,
+    "quantity_allocated": 10,
+    "lot_number": "LOT-2026-012"
+  },
+  {
+    "id": "INV-009",
+    "item_id": "ITEM-013",
+    "warehouse_id": "WH-01",
+    "quantity_on_hand": 50,
+    "quantity_allocated": 20,
+    "lot_number": "LOT-2026-013"
+  },
+  {
+    "id": "INV-010",
+    "item_id": "ITEM-014",
+    "warehouse_id": "WH-01",
+    "quantity_on_hand": 40,
+    "quantity_allocated": 12,
+    "lot_number": "LOT-2026-014"
+  },
+  {
+    "id": "INV-011",
+    "item_id": "ITEM-015",
+    "warehouse_id": "WH-01",
+    "quantity_on_hand": 80,
+    "quantity_allocated": 30,
+    "lot_number": "LOT-2026-015"
+  },
+  {
+    "id": "INV-012",
+    "item_id": "ITEM-016",
+    "warehouse_id": "WH-01",
+    "quantity_on_hand": 45,
+    "quantity_allocated": 18,
+    "lot_number": "LOT-2026-016"
+  },
+  {
+    "id": "INV-013",
+    "item_id": "ITEM-017",
+    "warehouse_id": "WH-01",
+    "quantity_on_hand": 70,
+    "quantity_allocated": 25,
+    "lot_number": "LOT-2026-017"
+  },
+  {
+    "id": "INV-014",
+    "item_id": "ITEM-020",
+    "warehouse_id": "WH-02",
+    "quantity_on_hand": 500,
+    "quantity_allocated": 150,
+    "lot_number": "LOT-2026-020"
+  },
+  {
+    "id": "INV-015",
+    "item_id": "ITEM-021",
+    "warehouse_id": "WH-02",
+    "quantity_on_hand": 800,
+    "quantity_allocated": 200,
+    "lot_number": "LOT-2026-021"
+  },
+  {
+    "id": "INV-016",
+    "item_id": "ITEM-022",
+    "warehouse_id": "WH-02",
+    "quantity_on_hand": 400,
+    "quantity_allocated": 100,
+    "lot_number": "LOT-2026-022"
+  },
+  {
+    "id": "INV-017",
+    "item_id": "ITEM-023",
+    "warehouse_id": "WH-02",
+    "quantity_on_hand": 200,
+    "quantity_allocated": 60,
+    "lot_number": "LOT-2026-023"
+  },
+  {
+    "id": "INV-018",
+    "item_id": "ITEM-024",
+    "warehouse_id": "WH-02",
+    "quantity_on_hand": 1200,
+    "quantity_allocated": 400,
+    "lot_number": "LOT-2026-024"
+  },
+  {
+    "id": "INV-019",
+    "item_id": "ITEM-025",
+    "warehouse_id": "WH-02",
+    "quantity_on_hand": 150,
+    "quantity_allocated": 50,
+    "lot_number": "LOT-2026-025"
+  },
+  {
+    "id": "INV-020",
+    "item_id": "ITEM-026",
+    "warehouse_id": "WH-02",
+    "quantity_on_hand": 3000,
+    "quantity_allocated": 800,
+    "lot_number": "LOT-2026-026"
+  },
+  {
+    "id": "INV-021",
+    "item_id": "ITEM-027",
+    "warehouse_id": "WH-02",
+    "quantity_on_hand": 75,
+    "quantity_allocated": 20,
+    "lot_number": "LOT-2026-027"
+  },
+  {
+    "id": "INV-022",
+    "item_id": "ITEM-028",
+    "warehouse_id": "WH-02",
+    "quantity_on_hand": 100,
+    "quantity_allocated": 30,
+    "lot_number": "LOT-2026-028"
+  },
+  {
+    "id": "INV-023",
+    "item_id": "ITEM-029",
+    "warehouse_id": "WH-02",
+    "quantity_on_hand": 150,
+    "quantity_allocated": 40,
+    "lot_number": "LOT-2026-029"
+  },
+  {
+    "id": "INV-024",
+    "item_id": "ITEM-030",
+    "warehouse_id": "WH-02",
+    "quantity_on_hand": 500,
+    "quantity_allocated": 100,
+    "lot_number": "LOT-2026-030"
+  },
+  {
+    "id": "INV-025",
+    "item_id": "ITEM-031",
+    "warehouse_id": "WH-02",
+    "quantity_on_hand": 50,
+    "quantity_allocated": 10,
+    "lot_number": "LOT-2026-031"
+  }
+]

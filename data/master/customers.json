@@ -1,0 +1,32 @@
+[
+  {
+    "id": "CUST-001",
+    "name": "Best Retail Inc",
+    "email": "purchasing@bestretail.com",
+    "priority": "high"
+  },
+  {
+    "id": "CUST-002",
+    "name": "TechMart Solutions",
+    "email": "orders@techmart.com",
+    "priority": "high"
+  },
+  {
+    "id": "CUST-003",
+    "name": "Regional Distributors",
+    "email": "supply@regionaldist.com",
+    "priority": "medium"
+  },
+  {
+    "id": "CUST-004",
+    "name": "SmallBiz Supplies",
+    "email": "buyer@smallbiz.com",
+    "priority": "low"
+  },
+  {
+    "id": "CUST-005",
+    "name": "Enterprise Systems Corp",
+    "email": "procurement@entcorp.com",
+    "priority": "medium"
+  }
+]

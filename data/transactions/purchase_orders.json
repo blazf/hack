@@ -1,0 +1,158 @@
+[
+  {
+    "id": "PO-001",
+    "supplier_id": "SUP-001",
+    "order_date": "2026-01-20",
+    "expected_date": "2026-01-27",
+    "status": "sent",
+    "lines": [
+      {
+        "item_id": "ITEM-020",
+        "quantity_ordered": 500,
+        "quantity_received": 0,
+        "unit_price": 5.50
+      },
+      {
+        "item_id": "ITEM-021",
+        "quantity_ordered": 400,
+        "quantity_received": 0,
+        "unit_price": 2.25
+      }
+    ]
+  },
+  {
+    "id": "PO-002",
+    "supplier_id": "SUP-002",
+    "order_date": "2026-01-18",
+    "expected_date": "2026-01-28",
+    "status": "partial",
+    "lines": [
+      {
+        "item_id": "ITEM-023",
+        "quantity_ordered": 100,
+        "quantity_received": 60,
+        "unit_price": 12.00
+      }
+    ]
+  },
+  {
+    "id": "PO-003",
+    "supplier_id": "SUP-003",
+    "order_date": "2026-01-15",
+    "expected_date": "2026-01-29",
+    "status": "received",
+    "lines": [
+      {
+        "item_id": "ITEM-025",
+        "quantity_ordered": 100,
+        "quantity_received": 100,
+        "unit_price": 8.50
+      }
+    ]
+  },
+  {
+    "id": "PO-004",
+    "supplier_id": "SUP-004",
+    "order_date": "2026-01-22",
+    "expected_date": "2026-01-24",
+    "status": "received",
+    "lines": [
+      {
+        "item_id": "ITEM-024",
+        "quantity_ordered": 500,
+        "quantity_received": 500,
+        "unit_price": 0.45
+      },
+      {
+        "item_id": "ITEM-026",
+        "quantity_ordered": 2000,
+        "quantity_received": 2000,
+        "unit_price": 0.08
+      },
+      {
+        "item_id": "ITEM-030",
+        "quantity_ordered": 200,
+        "quantity_received": 200,
+        "unit_price": 1.20
+      }
+    ]
+  },
+  {
+    "id": "PO-005",
+    "supplier_id": "SUP-005",
+    "order_date": "2026-01-25",
+    "expected_date": "2026-01-30",
+    "status": "sent",
+    "lines": [
+      {
+        "item_id": "ITEM-022",
+        "quantity_ordered": 200,
+        "quantity_received": 0,
+        "unit_price": 3.75
+      },
+      {
+        "item_id": "ITEM-029",
+        "quantity_ordered": 80,
+        "quantity_received": 0,
+        "unit_price": 6.00
+      }
+    ]
+  },
+  {
+    "id": "PO-006",
+    "supplier_id": "SUP-001",
+    "order_date": "2026-01-28",
+    "expected_date": "2026-02-04",
+    "status": "draft",
+    "lines": [
+      {
+        "item_id": "ITEM-027",
+        "quantity_ordered": 30,
+        "quantity_received": 0,
+        "unit_price": 15.00
+      },
+      {
+        "item_id": "ITEM-031",
+        "quantity_ordered": 20,
+        "quantity_received": 0,
+        "unit_price": 18.00
+      }
+    ]
+  },
+  {
+    "id": "PO-007",
+    "supplier_id": "SUP-002",
+    "order_date": "2026-01-29",
+    "expected_date": "2026-02-08",
+    "status": "sent",
+    "lines": [
+      {
+        "item_id": "ITEM-028",
+        "quantity_ordered": 50,
+        "quantity_received": 0,
+        "unit_price": 22.00
+      }
+    ]
+  },
+  {
+    "id": "PO-008",
+    "supplier_id": "SUP-003",
+    "order_date": "2026-01-30",
+    "expected_date": "2026-02-13",
+    "status": "draft",
+    "lines": [
+      {
+        "item_id": "ITEM-025",
+        "quantity_ordered": 75,
+        "quantity_received": 0,
+        "unit_price": 8.50
+      },
+      {
+        "item_id": "ITEM-021",
+        "quantity_ordered": 300,
+        "quantity_received": 0,
+        "unit_price": 2.40
+      }
+    ]
+  }
+]

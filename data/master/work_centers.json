@@ -1,0 +1,30 @@
+[
+  {
+    "id": "WC-01",
+    "name": "Assembly Station 1",
+    "capacity_hours_per_day": 8,
+    "cost_per_hour": 45.00,
+    "efficiency_factor": 0.85
+  },
+  {
+    "id": "WC-02",
+    "name": "CNC Machining Center",
+    "capacity_hours_per_day": 16,
+    "cost_per_hour": 75.00,
+    "efficiency_factor": 0.90
+  },
+  {
+    "id": "WC-03",
+    "name": "Quality Control Station",
+    "capacity_hours_per_day": 8,
+    "cost_per_hour": 35.00,
+    "efficiency_factor": 0.95
+  },
+  {
+    "id": "WC-04",
+    "name": "Packing & Shipping",
+    "capacity_hours_per_day": 8,
+    "cost_per_hour": 30.00,
+    "efficiency_factor": 0.92
+  }
+]

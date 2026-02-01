@@ -1,0 +1,162 @@
+[
+  {
+    "id": "SO-001",
+    "customer_id": "CUST-001",
+    "order_date": "2026-01-15",
+    "required_date": "2026-02-15",
+    "status": "confirmed",
+    "lines": [
+      {
+        "item_id": "ITEM-001",
+        "quantity": 50,
+        "unit_price": 200.00
+      }
+    ]
+  },
+  {
+    "id": "SO-002",
+    "customer_id": "CUST-002",
+    "order_date": "2026-01-18",
+    "required_date": "2026-02-20",
+    "status": "confirmed",
+    "lines": [
+      {
+        "item_id": "ITEM-002",
+        "quantity": 30,
+        "unit_price": 285.00
+      },
+      {
+        "item_id": "ITEM-003",
+        "quantity": 25,
+        "unit_price": 125.00
+      }
+    ]
+  },
+  {
+    "id": "SO-003",
+    "customer_id": "CUST-001",
+    "order_date": "2026-01-20",
+    "required_date": "2026-02-10",
+    "status": "in_production",
+    "lines": [
+      {
+        "item_id": "ITEM-004",
+        "quantity": 20,
+        "unit_price": 240.00
+      }
+    ]
+  },
+  {
+    "id": "SO-004",
+    "customer_id": "CUST-003",
+    "order_date": "2026-01-22",
+    "required_date": "2026-03-01",
+    "status": "confirmed",
+    "lines": [
+      {
+        "item_id": "ITEM-005",
+        "quantity": 15,
+        "unit_price": 350.00
+      }
+    ]
+  },
+  {
+    "id": "SO-005",
+    "customer_id": "CUST-004",
+    "order_date": "2026-01-10",
+    "required_date": "2026-02-05",
+    "status": "shipped",
+    "lines": [
+      {
+        "item_id": "ITEM-001",
+        "quantity": 10,
+        "unit_price": 195.00
+      },
+      {
+        "item_id": "ITEM-003",
+        "quantity": 8,
+        "unit_price": 120.00
+      }
+    ]
+  },
+  {
+    "id": "SO-006",
+    "customer_id": "CUST-005",
+    "order_date": "2026-01-25",
+    "required_date": "2026-02-25",
+    "status": "pending",
+    "lines": [
+      {
+        "item_id": "ITEM-002",
+        "quantity": 40,
+        "unit_price": 280.00
+      }
+    ]
+  },
+  {
+    "id": "SO-007",
+    "customer_id": "CUST-002",
+    "order_date": "2026-01-28",
+    "required_date": "2026-03-10",
+    "status": "confirmed",
+    "lines": [
+      {
+        "item_id": "ITEM-001",
+        "quantity": 100,
+        "unit_price": 190.00
+      },
+      {
+        "item_id": "ITEM-004",
+        "quantity": 50,
+        "unit_price": 235.00
+      }
+    ]
+  },
+  {
+    "id": "SO-008",
+    "customer_id": "CUST-003",
+    "order_date": "2026-01-05",
+    "required_date": "2026-01-30",
+    "status": "completed",
+    "lines": [
+      {
+        "item_id": "ITEM-003",
+        "quantity": 35,
+        "unit_price": 125.00
+      }
+    ]
+  },
+  {
+    "id": "SO-009",
+    "customer_id": "CUST-001",
+    "order_date": "2026-01-30",
+    "required_date": "2026-02-28",
+    "status": "confirmed",
+    "lines": [
+      {
+        "item_id": "ITEM-005",
+        "quantity": 25,
+        "unit_price": 345.00
+      },
+      {
+        "item_id": "ITEM-002",
+        "quantity": 15,
+        "unit_price": 285.00
+      }
+    ]
+  },
+  {
+    "id": "SO-010",
+    "customer_id": "CUST-004",
+    "order_date": "2026-01-29",
+    "required_date": "2026-03-15",
+    "status": "pending",
+    "lines": [
+      {
+        "item_id": "ITEM-004",
+        "quantity": 30,
+        "unit_price": 240.00
+      }
+    ]
+  }
+]

@@ -1,0 +1,270 @@
+[
+  {
+    "item_id": "ITEM-001",
+    "operations": [
+      {
+        "sequence": 10,
+        "work_center_id": "WC-01",
+        "description": "Assemble sub-assemblies and components",
+        "setup_time_hours": 0.5,
+        "run_time_per_unit_hours": 0.25
+      },
+      {
+        "sequence": 20,
+        "work_center_id": "WC-03",
+        "description": "Quality inspection",
+        "setup_time_hours": 0,
+        "run_time_per_unit_hours": 0.1
+      },
+      {
+        "sequence": 30,
+        "work_center_id": "WC-04",
+        "description": "Final packing",
+        "setup_time_hours": 0.25,
+        "run_time_per_unit_hours": 0.08
+      }
+    ]
+  },
+  {
+    "item_id": "ITEM-002",
+    "operations": [
+      {
+        "sequence": 10,
+        "work_center_id": "WC-02",
+        "description": "CNC machining of frame",
+        "setup_time_hours": 1.0,
+        "run_time_per_unit_hours": 0.4
+      },
+      {
+        "sequence": 20,
+        "work_center_id": "WC-01",
+        "description": "Assembly of components",
+        "setup_time_hours": 0.5,
+        "run_time_per_unit_hours": 0.35
+      },
+      {
+        "sequence": 30,
+        "work_center_id": "WC-03",
+        "description": "Quality inspection",
+        "setup_time_hours": 0,
+        "run_time_per_unit_hours": 0.15
+      },
+      {
+        "sequence": 40,
+        "work_center_id": "WC-04",
+        "description": "Packing and labeling",
+        "setup_time_hours": 0.25,
+        "run_time_per_unit_hours": 0.1
+      }
+    ]
+  },
+  {
+    "item_id": "ITEM-003",
+    "operations": [
+      {
+        "sequence": 10,
+        "work_center_id": "WC-01",
+        "description": "Component assembly",
+        "setup_time_hours": 0.25,
+        "run_time_per_unit_hours": 0.2
+      },
+      {
+        "sequence": 20,
+        "work_center_id": "WC-03",
+        "description": "Quality check",
+        "setup_time_hours": 0,
+        "run_time_per_unit_hours": 0.08
+      },
+      {
+        "sequence": 30,
+        "work_center_id": "WC-04",
+        "description": "Pack for shipment",
+        "setup_time_hours": 0.15,
+        "run_time_per_unit_hours": 0.05
+      }
+    ]
+  },
+  {
+    "item_id": "ITEM-004",
+    "operations": [
+      {
+        "sequence": 10,
+        "work_center_id": "WC-02",
+        "description": "Precision machining",
+        "setup_time_hours": 0.75,
+        "run_time_per_unit_hours": 0.3
+      },
+      {
+        "sequence": 20,
+        "work_center_id": "WC-01",
+        "description": "Final assembly",
+        "setup_time_hours": 0.5,
+        "run_time_per_unit_hours": 0.3
+      },
+      {
+        "sequence": 30,
+        "work_center_id": "WC-03",
+        "description": "Quality inspection",
+        "setup_time_hours": 0,
+        "run_time_per_unit_hours": 0.12
+      },
+      {
+        "sequence": 40,
+        "work_center_id": "WC-04",
+        "description": "Packaging",
+        "setup_time_hours": 0.2,
+        "run_time_per_unit_hours": 0.1
+      }
+    ]
+  },
+  {
+    "item_id": "ITEM-005",
+    "operations": [
+      {
+        "sequence": 10,
+        "work_center_id": "WC-01",
+        "description": "Main assembly",
+        "setup_time_hours": 0.75,
+        "run_time_per_unit_hours": 0.45
+      },
+      {
+        "sequence": 20,
+        "work_center_id": "WC-03",
+        "description": "Comprehensive QC",
+        "setup_time_hours": 0.25,
+        "run_time_per_unit_hours": 0.2
+      },
+      {
+        "sequence": 30,
+        "work_center_id": "WC-04",
+        "description": "Premium packaging",
+        "setup_time_hours": 0.3,
+        "run_time_per_unit_hours": 0.15
+      }
+    ]
+  },
+  {
+    "item_id": "ITEM-010",
+    "operations": [
+      {
+        "sequence": 10,
+        "work_center_id": "WC-02",
+        "description": "Machine base components",
+        "setup_time_hours": 0.5,
+        "run_time_per_unit_hours": 0.15
+      },
+      {
+        "sequence": 20,
+        "work_center_id": "WC-01",
+        "description": "Sub-assembly build",
+        "setup_time_hours": 0.25,
+        "run_time_per_unit_hours": 0.2
+      }
+    ]
+  },
+  {
+    "item_id": "ITEM-011",
+    "operations": [
+      {
+        "sequence": 10,
+        "work_center_id": "WC-01",
+        "description": "Component assembly",
+        "setup_time_hours": 0.15,
+        "run_time_per_unit_hours": 0.1
+      }
+    ]
+  },
+  {
+    "item_id": "ITEM-012",
+    "operations": [
+      {
+        "sequence": 10,
+        "work_center_id": "WC-02",
+        "description": "CNC processing",
+        "setup_time_hours": 0.75,
+        "run_time_per_unit_hours": 0.25
+      },
+      {
+        "sequence": 20,
+        "work_center_id": "WC-01",
+        "description": "Assembly",
+        "setup_time_hours": 0.25,
+        "run_time_per_unit_hours": 0.15
+      }
+    ]
+  },
+  {
+    "item_id": "ITEM-013",
+    "operations": [
+      {
+        "sequence": 10,
+        "work_center_id": "WC-01",
+        "description": "Electronic component assembly",
+        "setup_time_hours": 0.2,
+        "run_time_per_unit_hours": 0.12
+      }
+    ]
+  },
+  {
+    "item_id": "ITEM-014",
+    "operations": [
+      {
+        "sequence": 10,
+        "work_center_id": "WC-02",
+        "description": "Machining",
+        "setup_time_hours": 0.5,
+        "run_time_per_unit_hours": 0.18
+      },
+      {
+        "sequence": 20,
+        "work_center_id": "WC-01",
+        "description": "Assembly and painting",
+        "setup_time_hours": 0.3,
+        "run_time_per_unit_hours": 0.2
+      }
+    ]
+  },
+  {
+    "item_id": "ITEM-015",
+    "operations": [
+      {
+        "sequence": 10,
+        "work_center_id": "WC-01",
+        "description": "Component build",
+        "setup_time_hours": 0.1,
+        "run_time_per_unit_hours": 0.08
+      }
+    ]
+  },
+  {
+    "item_id": "ITEM-016",
+    "operations": [
+      {
+        "sequence": 10,
+        "work_center_id": "WC-02",
+        "description": "Glass panel fitting prep",
+        "setup_time_hours": 0.4,
+        "run_time_per_unit_hours": 0.2
+      },
+      {
+        "sequence": 20,
+        "work_center_id": "WC-01",
+        "description": "Frame assembly with glass",
+        "setup_time_hours": 0.3,
+        "run_time_per_unit_hours": 0.25
+      }
+    ]
+  },
+  {
+    "item_id": "ITEM-017",
+    "operations": [
+      {
+        "sequence": 10,
+        "work_center_id": "WC-01",
+        "description": "Component assembly",
+        "setup_time_hours": 0.15,
+        "run_time_per_unit_hours": 0.1
+      }
+    ]
+  }
+]

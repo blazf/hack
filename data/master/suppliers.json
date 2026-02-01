@@ -1,0 +1,37 @@
+[
+  {
+    "id": "SUP-001",
+    "name": "Acme Materials Co",
+    "email": "orders@acme.com",
+    "lead_time_days": 7,
+    "payment_terms": "Net 30"
+  },
+  {
+    "id": "SUP-002",
+    "name": "Global Steel Supply",
+    "email": "sales@globalsteel.com",
+    "lead_time_days": 10,
+    "payment_terms": "Net 45"
+  },
+  {
+    "id": "SUP-003",
+    "name": "Pacific Electronics",
+    "email": "procurement@pacelec.com",
+    "lead_time_days": 14,
+    "payment_terms": "Net 30"
+  },
+  {
+    "id": "SUP-004",
+    "name": "QuickParts Express",
+    "email": "orders@quickparts.com",
+    "lead_time_days": 3,
+    "payment_terms": "Net 15"
+  },
+  {
+    "id": "SUP-005",
+    "name": "Industrial Polymers Ltd",
+    "email": "supply@indpoly.com",
+    "lead_time_days": 5,
+    "payment_terms": "Net 30"
+  }
+]

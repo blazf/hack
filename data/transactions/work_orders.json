@@ -1,0 +1,102 @@
+[
+  {
+    "id": "WO-001",
+    "item_id": "ITEM-001",
+    "quantity": 50,
+    "start_date": "2026-02-01",
+    "due_date": "2026-02-10",
+    "status": "planned",
+    "priority": 1,
+    "source_order_id": "SO-001"
+  },
+  {
+    "id": "WO-002",
+    "item_id": "ITEM-002",
+    "quantity": 30,
+    "start_date": "2026-02-05",
+    "due_date": "2026-02-15",
+    "status": "planned",
+    "priority": 2,
+    "source_order_id": "SO-002"
+  },
+  {
+    "id": "WO-003",
+    "item_id": "ITEM-004",
+    "quantity": 20,
+    "start_date": "2026-01-28",
+    "due_date": "2026-02-05",
+    "status": "in_progress",
+    "priority": 1,
+    "source_order_id": "SO-003"
+  },
+  {
+    "id": "WO-004",
+    "item_id": "ITEM-010",
+    "quantity": 100,
+    "start_date": "2026-01-25",
+    "due_date": "2026-01-30",
+    "status": "completed",
+    "priority": 2,
+    "source_order_id": null
+  },
+  {
+    "id": "WO-005",
+    "item_id": "ITEM-012",
+    "quantity": 60,
+    "start_date": "2026-01-30",
+    "due_date": "2026-02-05",
+    "status": "in_progress",
+    "priority": 2,
+    "source_order_id": null
+  },
+  {
+    "id": "WO-006",
+    "item_id": "ITEM-005",
+    "quantity": 15,
+    "start_date": "2026-02-10",
+    "due_date": "2026-02-20",
+    "status": "planned",
+    "priority": 3,
+    "source_order_id": "SO-004"
+  },
+  {
+    "id": "WO-007",
+    "item_id": "ITEM-003",
+    "quantity": 25,
+    "start_date": "2026-02-08",
+    "due_date": "2026-02-15",
+    "status": "planned",
+    "priority": 2,
+    "source_order_id": "SO-002"
+  },
+  {
+    "id": "WO-008",
+    "item_id": "ITEM-001",
+    "quantity": 100,
+    "start_date": "2026-02-15",
+    "due_date": "2026-03-01",
+    "status": "planned",
+    "priority": 2,
+    "source_order_id": "SO-007"
+  },
+  {
+    "id": "WO-009",
+    "item_id": "ITEM-011",
+    "quantity": 200,
+    "start_date": "2026-01-27",
+    "due_date": "2026-02-01",
+    "status": "completed",
+    "priority": 3,
+    "source_order_id": null
+  },
+  {
+    "id": "WO-010",
+    "item_id": "ITEM-004",
+    "quantity": 50,
+    "start_date": "2026-02-18",
+    "due_date": "2026-03-05",
+    "status": "planned",
+    "priority": 2,
+    "source_order_id": "SO-007"
+  }
+]

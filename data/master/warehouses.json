@@ -1,0 +1,12 @@
+[
+  {
+    "id": "WH-01",
+    "name": "Main Warehouse",
+    "type": "mixed"
+  },
+  {
+    "id": "WH-02",
+    "name": "Secondary Storage",
+    "type": "raw_materials"
+  }
+]
