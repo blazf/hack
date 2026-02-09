@@ -45,7 +45,9 @@ Build a self-contained MRP (Material Requirements Planning) webapp with:
 ### Phase 3: UI - Layout & Master Data
 1. Build AppShell with collapsible sidebar navigation
 2. Create reusable DataTable component (sorting, filtering, pagination)
-3. Implement list views for all master data entities
+3. Implement list views for
+ - all master data entities: items, BOW, work centers, routings.
+ - transactions: customer orders, work orders, inventory, purchase orders.
 4. Implement create/edit forms with Zod validation
 5. Add delete with referential integrity checks
 
